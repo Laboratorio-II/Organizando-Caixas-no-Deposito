@@ -6,6 +6,6 @@
 // Já implementada em main.c: imprime a troca entre as posições i e j
 void registra_troca(int i, int j);
 
-void selection_sort(int v[], int n);
+int selection_sort(int v[], int n);
 
 #endif
