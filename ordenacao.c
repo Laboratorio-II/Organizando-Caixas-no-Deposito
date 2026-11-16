@@ -1,4 +1,5 @@
 #include "ordenacao.h"
+#include <stdio.h>
 
 void registra_troca(int i, int j) {
     printf("Troca: %d %d\n", i, j);
